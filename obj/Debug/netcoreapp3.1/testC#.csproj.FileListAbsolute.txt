@@ -1,0 +1,13 @@
+C:\Users\shichen.hong\Documents\GitHub\testC#\bin\Debug\netcoreapp3.1\testC#.exe
+C:\Users\shichen.hong\Documents\GitHub\testC#\bin\Debug\netcoreapp3.1\testC#.deps.json
+C:\Users\shichen.hong\Documents\GitHub\testC#\bin\Debug\netcoreapp3.1\testC#.runtimeconfig.json
+C:\Users\shichen.hong\Documents\GitHub\testC#\bin\Debug\netcoreapp3.1\testC#.runtimeconfig.dev.json
+C:\Users\shichen.hong\Documents\GitHub\testC#\bin\Debug\netcoreapp3.1\testC#.dll
+C:\Users\shichen.hong\Documents\GitHub\testC#\bin\Debug\netcoreapp3.1\testC#.pdb
+C:\Users\shichen.hong\Documents\GitHub\testC#\obj\Debug\netcoreapp3.1\testC#.csprojAssemblyReference.cache
+C:\Users\shichen.hong\Documents\GitHub\testC#\obj\Debug\netcoreapp3.1\testC#.AssemblyInfoInputs.cache
+C:\Users\shichen.hong\Documents\GitHub\testC#\obj\Debug\netcoreapp3.1\testC#.AssemblyInfo.cs
+C:\Users\shichen.hong\Documents\GitHub\testC#\obj\Debug\netcoreapp3.1\testC#.csproj.CoreCompileInputs.cache
+C:\Users\shichen.hong\Documents\GitHub\testC#\obj\Debug\netcoreapp3.1\testC#.dll
+C:\Users\shichen.hong\Documents\GitHub\testC#\obj\Debug\netcoreapp3.1\testC#.pdb
+C:\Users\shichen.hong\Documents\GitHub\testC#\obj\Debug\netcoreapp3.1\testC#.genruntimeconfig.cache

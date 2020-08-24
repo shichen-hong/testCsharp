@@ -1,0 +1,3 @@
+[submodule "cs8dotnetcore3"]
+	path = cs8dotnetcore3
+	url = https://github.com/markjprice/cs8dotnetcore3.git
