@@ -12,8 +12,8 @@
             "program": "${workspaceFolder}/bin/Debug/netcoreapp3.1/testC#.dll",
             "args": ["0", "1"],
             "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "stopAtEntry": true
+            "console": "externalTerminal",
+            "stopAtEntry": false
         },
         {
             "name": ".NET Core Attach",
