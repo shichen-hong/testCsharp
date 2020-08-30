@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks; 
 
+delegate int NumberChanger(int n);
 namespace testC_
 {
     class Program
@@ -17,6 +18,15 @@ namespace testC_
 
             myClasses.GenericList<int> cls = new myClasses.GenericList<int>();
             Console.WriteLine(cls.Max(1, 2));
+
+            DelegateTest.TestDelegate delTest = new DelegateTest.TestDelegate();
+            NumberChanger nc1 = new NumberChanger(delTest.AddNum);
+            NumberChanger nc2 = new NumberChanger(delTest.MultNum);
+
+            nc1(10);
+            nc2(2);
+            Console.WriteLine(delTest.getNum());
+
             Console.ReadLine();
         }
     }
